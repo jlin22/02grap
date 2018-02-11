@@ -23,4 +23,4 @@ draw_line(0,0,0,500, screen, color8)
 color9= [255,0	,120]
 draw_line(499, 499, 499,0, screen, color9)
 display(screen)
-save_extension(screen, 'img.ppm')
+save_extension(screen, 'pic.ppm')
